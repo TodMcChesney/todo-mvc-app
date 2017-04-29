@@ -14,7 +14,7 @@ var app = app || {};
 		defaults: {
 			title: '',
 			completed: false,
-            prioritize: false
+            priority: false
 		},
 
 		// Toggle the `priority` state of this todo item.
